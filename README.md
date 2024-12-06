@@ -6,11 +6,11 @@
 
 ### 🖌️ Фронтенд
 
-![Tech stack](https://skillicons.dev/icons?i=typescript,javascript,svelte,tailwind,html,css,solid,astro)
+![Tech stack](https://skillicons.dev/icons?i=typescript,javascript,svelte,tailwind,html,css,solidjs,astro)
 
 ### ⚙️ Бекенд
 
-![Tech stack](https://skillicons.dev/icons?i=bun,typescript,javascript,elysia,postgres,prisma,drizzle,redis)
+![Tech stack](https://skillicons.dev/icons?i=bun,typescript,javascript,elysia,postgres,prisma,drizzleorm,redis)
 
 ## ❓ Как со мной связаться?
 
