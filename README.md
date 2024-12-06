@@ -10,7 +10,7 @@
 
 ### ⚙️ Бекенд
 
-![Tech stack](https://skillicons.dev/icons?i=bun,typescript,javascript,elysia,postgres,prisma,drizzleorm,redis)
+![Tech stack](https://skillicons.dev/icons?i=bun,typescript,javascript,elysia,postgres,prisma,redis)
 
 ## ❓ Как со мной связаться?
 
