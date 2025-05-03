@@ -6,4 +6,4 @@
 
 ### ⚙️ Бекенд
 
-![Tech stack](https://skillicons.dev/icons?i=bun,typescript,javascript,elysia,postgres,prisma,redis)
+![Tech stack](https://skillicons.dev/icons?i=bun,typescript,javascript,elysia,postgres,drizzle,redis,typebox)
