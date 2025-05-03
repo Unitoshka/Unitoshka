@@ -6,7 +6,7 @@
 
 ### ⚙️ Бекенд
 
-![Tech stack](https://skillicons.dev/icons?i=bun,typescript,javascript,elysia,postgres,redis)
+![Tech stack](https://skillicons.dev/icons?i=typescript,javascript,elysia,postgres,redis)
 
 ### Best JS Runtime:
 ![Runtime](https://skillicons.dev/icons?i=bun)
